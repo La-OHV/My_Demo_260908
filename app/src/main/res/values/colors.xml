@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="remote_background">#F4F7F6</color>
+    <color name="remote_text">#17211E</color>
+    <color name="remote_text_secondary">#60706A</color>
+    <color name="remote_divider">#DCE4E1</color>
+    <color name="control_strip_background">#EEF3F1</color>
+    <color name="output_background">#E8EFEC</color>
+    <color name="controller_surface">#FFFFFF</color>
+    <color name="controller_border">#CBD6D2</color>
+    <color name="joystick_surface">#FFFFFF</color>
+    <color name="joystick_border">#B8C8C2</color>
+    <color name="joystick_guide">#D9E3DF</color>
+    <color name="joystick_knob">#087D6B</color>
+    <color name="action_a">#D99122</color>
+    <color name="action_b">#CC4B45</color>
+    <color name="action_c">#3278B8</color>
+    <color name="button_ripple">#66FFFFFF</color>
+    <color name="gear_background">#FFFFFF</color>
+    <color name="gear_border">#B8C8C2</color>
+    <color name="gear_divider">#DCE4E1</color>
+    <color name="master_on">#087D6B</color>
+    <color name="master_on_border">#056052</color>
+    <color name="master_off">#EEF2F0</color>
+    <color name="master_off_border">#9AACA5</color>
+    <color name="status_on">#087D6B</color>
+    <color name="status_off">#8A9893</color>
+</resources>

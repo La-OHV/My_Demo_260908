@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyDemo260908" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/joystick_knob</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:navigationBarColor">@color/remote_background</item>
+        <item name="android:statusBarColor">@color/remote_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
